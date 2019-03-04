@@ -26,19 +26,19 @@ These notes aim to provide a simple guide to Guile's combos.
 ```j.hk, cr.mp xx fk xx ca``` 472 dmg / 400 stn  
 
 #### In the corner 
-No jump in:  
+No jump in:   
 ```st.mp, f.hp, vskill, fk``` 246 dmg / 415 stn  
-With jump in:  
-```j.hk, st.mp, f.hp, vskill, fk``` 306 dmg / 515 stn  
+With jump in:    
+```j.hk, st.mp, f.hp, vskill, fk``` 306 dmg / 515 stn    
 
-No jump in ex:  
+No jump in ex:   
 ```st.mp, f.hp, vskill, fk``` 246 dmg / 415 stn  
-With jump in ex:  
+With jump in ex:    
 ```j.hk, st.mp, f.hp, vskill, ex.fk``` 318 dmg / 515 stn  
 
 No jump in CA:  
 ```st.mp, f.hp, vskill, fk xx ca``` 438 dmg / 145 stn  
-With jump in CA:  
+With jump in CA:   
 ```j.hk, st.mp, f.hp, vskill, fk xx ca``` 466 dmg / 515 stn  
 
 #### Light confirms  
